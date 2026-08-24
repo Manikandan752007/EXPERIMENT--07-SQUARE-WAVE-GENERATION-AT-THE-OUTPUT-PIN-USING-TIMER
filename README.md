@@ -102,32 +102,41 @@ Step14. click on debug and simulate using simulation as shown below
 
 
 ## Output screen shots of proteus  :
- 
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a05e271f-4609-4fac-b3ed-8b7f7c52d753" />
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37e0375a-38bc-4447-9358-3da23ffec848" />
+ <img width="1374" height="871" alt="image" src="https://github.com/user-attachments/assets/c6b58a82-6d76-4c1c-8d8d-9d556f6ff995" />
+ <img width="1372" height="872" alt="image" src="https://github.com/user-attachments/assets/314d02b0-7ce7-463f-bfdb-c8c66e927d16" />
+ <img width="1373" height="870" alt="image" src="https://github.com/user-attachments/assets/29c86950-3102-4838-8d12-2e8b587b7caa" />
+
+
+
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+<img width="1205" height="841" alt="image" src="https://github.com/user-attachments/assets/8fcaac0b-20f3-436a-97a4-8e81169d822d" />
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 3.1
+TOFF= 3.1
+TOTAL TIME = 6.2 
 FREQUENCY = 1/(TOTAL TIME)
 
 FOR PULSE AT 700
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 4.3
+TOFF= 1.9
+TOTAL TIME = 6.2
 FREQUENCY = 1/(TOTAL TIME)
 
 
 FOR PULSE AT 900
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 5.6
+TOFF= 0.6
+TOTAL TIME = 6.2
 FREQUENCY = 1/(TOTAL TIME)
 
 
