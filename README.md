@@ -272,7 +272,7 @@ FREQUENCY = 1/(TOTAL TIME)
 
 
 ## Result :
-A PWM Signal is generated using the following frequency and various duty cycles are simulated 
+A PWM Signal is generated using the following frequency and various duty cycles are simulated  
 
 
 
