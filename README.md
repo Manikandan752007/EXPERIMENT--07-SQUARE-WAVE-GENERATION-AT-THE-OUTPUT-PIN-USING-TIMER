@@ -244,7 +244,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-<img width="1205" height="841" alt="image" src="https://github.com/user-attachments/assets/8fcaac0b-20f3-436a-97a4-8e81169d822d" />
+<img width="900" height="628" alt="image" src="https://github.com/user-attachments/assets/b51b75d7-6cfc-431b-8e1c-418f9eace8a0" /> 
+
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
